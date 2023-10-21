@@ -1,5 +1,5 @@
 # Cousera : IBM Data Science Professional Certificate<br>
-Solved Excercises inside Lab-notebook<br>
+## Solved Excercises inside Lab-notebook<br>
 -[x] What is Data Science?<br>
       [Certificate](https://coursera.org/share/51a934661b8349d35b7709f00f42b02d)<br>
 -[x] Tools for Data Science<br>
