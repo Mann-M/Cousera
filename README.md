@@ -13,7 +13,7 @@
 - [x] Database and SQL for Data Science<br>
       [Certificate](https://coursera.org/share/b59fa655cbd1ab2eedb37a883a6632ec)<br>
 - [x] Data Analysis with Python<br>
-      [Certificate]()<br>
+      [Certificate](https://coursera.org/share/c5d432a86b1d70c6b664a2bd66b15e80)<br>
 - [ ] Data Visualization with Python<br>
       [Certificate]()<br>
 - [ ] Machine Learning with Python<br>
